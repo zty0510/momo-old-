@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ModeChoose"
+    android:background="@drawable/gradient">
+
+    <Button
+        android:id="@+id/page1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词1到10页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词11到20页"
+        android:textStyle="bold" />
+
+
+
+    <Button
+        android:id="@+id/page3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词21到30页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词31到40页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词41到50页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词51到60页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词61到70页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词71到80页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词81到90页"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/page10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="高词91到100页"
+        android:textStyle="bold" />
+
+</LinearLayout>
